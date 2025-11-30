@@ -1,0 +1,56 @@
+[
+  {
+    "name": "id",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Unique identifier for the artifact"
+  },
+  {
+    "name": "title",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Title of the artwork or artifact"
+  },
+  {
+    "name": "artist",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Creator or artist of the artifact"
+  },
+  {
+    "name": "year",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Year or date the artifact was created"
+  },
+  {
+    "name": "period",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Artistic period or era (e.g., Renaissance, Baroque)"
+  },
+  {
+    "name": "description",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Brief description of the artifact"
+  },
+  {
+    "name": "image_url",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "URL to the image of the artifact"
+  },
+  {
+    "name": "full_details",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Extended or detailed information about the artifact"
+  },
+  {
+    "name": "room_name",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "The museum room or location where the artifact is displayed"
+  }
+]
